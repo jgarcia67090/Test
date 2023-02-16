@@ -3,4 +3,6 @@ html {
   width: 100%;
   background-color: lightgreen;
   color: purple;
+  margin: 0 auto;
+  padding: 5px;
 }
